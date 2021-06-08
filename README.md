@@ -5,4 +5,4 @@ algorithms,are applied to predict the loan approval of customers.
 
 
 
-This Project is Done By Mr. SHEELAJ BABU   B.Tech (IIIT-BHAGALPUR)
+This Project is Done By  SHEELAJ BABU   B.Tech (IIIT-BHAGALPUR)
